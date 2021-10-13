@@ -24,5 +24,5 @@ Teaching experience
 
 * Spring 2020: Teaching Assistant, ISYE 3025 Engineering Economy
 
-* Fall 2019: Teaching Assistant, ISYE 2027
+* Fall 2019: Teaching Assistant, ISYE 2027 Probability and Applications
 
