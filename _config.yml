@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Alex Bukharin"
 title_separator          : "-"
 name                     : &name "Alex Bukharin"
-description              : &description "First Year ML PhD Student at Georgia Tech"
+description              : &description "Ph.D student in Machine Learning at Georgia Tech"
 url                      : https://abukharin3.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "abukharin3/abukharin3.github.io"
@@ -107,7 +107,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
