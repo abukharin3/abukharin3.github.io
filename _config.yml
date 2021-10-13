@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Alex Bukharin"
 title_separator          : "-"
 name                     : &name "Alex Bukharin"
 description              : &description "First Year ML PhD Student at Georgia Tech"
