@@ -20,6 +20,5 @@ Shixiang Zhu, **Alexander Bukharin**, Le Lu, He Wang, and Yao Xie
 KDD Workshop on Data Science for Social Good, 2021
 
 [Five-Year Project-Level Statewide Pavement Performance Forecasting Using a Two-Stage Machine Learning Approach Based on Long Short-Term Memory](https://journals.sagepub.com/doi/abs/10.1177/03611981211017132)
-
 **Alexander Bukharin**, Zhongyu Yang, and Yichang (James) Tsai
 Transportation Research Record, 2021
