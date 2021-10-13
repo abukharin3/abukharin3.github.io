@@ -18,3 +18,11 @@ Work experience
 
 * Summer 2020: Customer Solutions Engineering Intern, Rocket Software
 
+Teaching experience
+======
+* Fall 2021: Teaching Assistant, ISYE 3232 Stochastic Systems
+
+* Spring 2020: Teaching Assistant, ISYE 3025 Engineering Economy
+
+* Fall 2019: Teaching Assistant, ISYE 2027
+
