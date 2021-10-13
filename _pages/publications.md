@@ -16,7 +16,7 @@ Shixiang Zhu, **Alexander Bukharin**, Liyan Xie, Shihao Yang, Pinar Keskinocack,
 arXiv, 2021
 
 [Data-Driven Optimization for Police Beat Design in South Fulton, Georgia](https://arxiv.org/abs/2004.09660)<br>
-Shixiang Zhu, **Alexander Bukharin**, Le Lu, He Wang, and Yao Xie
+Shixiang Zhu, **Alexander Bukharin**, Le Lu, He Wang, and Yao Xie<br>
 KDD Workshop on Data Science for Social Good, 2021
 
 [Five-Year Project-Level Statewide Pavement Performance Forecasting Using a Two-Stage Machine Learning Approach Based on Long Short-Term Memory](https://journals.sagepub.com/doi/abs/10.1177/03611981211017132)<br>
