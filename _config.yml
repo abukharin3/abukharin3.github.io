@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Alex Bukharin"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "First Year ML PhD Student at Georgia Tech"
+  location         : "Atlanta, GA, USA"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
