@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first year Ph.D. student in Machine Learning at Georgia Institute of Technology. My advisors are [Prof. Tuo Zhao](https://www2.isye.gatech.edu/~tzhao80/) and [Prof. Yao Xie](https://www2.isye.gatech.edu/~yxie77/). I recieved my Bachelor's degree in Industrial and Systems Engineering from Georgia Tech. My updated C.V. can be found [here](http://abukharin3.github.io/files/AlexBukharinCV.pdf).
+I am a first year Ph.D. student in Machine Learning at Georgia Institute of Technology. My advisors are [Prof. Tuo Zhao](https://www2.isye.gatech.edu/~tzhao80/) and [Prof. Yao Xie](https://www2.isye.gatech.edu/~yxie77/). I recieved my Bachelor's degree in Industrial and Systems Engineering from Georgia Tech. My updated C.V. can be found [here](http://abukharin3.github.io/files/AlexBukharinCVOct20.pdf).
 
 My research mainly focuses on machine learning. In particular, I am interested in adversarial training and domain generalization with applications to reinforcement learning and robotics.
 
