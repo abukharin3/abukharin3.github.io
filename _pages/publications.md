@@ -7,6 +7,10 @@ author_profile: true
 {% include base_path %}
 You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=PnVYoI4AAAAJ&hl=en).
 
+Robust Multi-Agent Reinforcement Learning using Stackelberg Adversarial Training <br>
+**Alexander Bukharin**, Zhehui Chen, Yan Li, Tuo Zhao <br>
+Submitted<br>
+
 [High-resolution Spatio-temporal Model for County-level COVID-19 Activity in the US](https://dl.acm.org/doi/abs/10.1145/3468876)<br>
 Shixiang Zhu, **Alexander Bukharin**, Liyan Xie, Mauricio Santillana, Shihao Yang, and Yao Xie<br>
 ACM Transactions on Management Information Systems (TMIS), 2021<br>
