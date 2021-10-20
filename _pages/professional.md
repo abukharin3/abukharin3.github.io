@@ -16,7 +16,7 @@ Work experience
 
 * Summer 2020: Quantitative Research Intern, Truist Securities
 
-* Summer 2020: Customer Solutions Engineering Intern, Rocket Software
+* Summer 2019: Customer Solutions Engineering Intern, Rocket Software
 
 Teaching experience
 ======
