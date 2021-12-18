@@ -10,7 +10,7 @@ redirect_from:
 
 I am a first year Ph.D. student in Machine Learning at Georgia Institute of Technology. My advisors are [Prof. Tuo Zhao](https://www2.isye.gatech.edu/~tzhao80/) and [Prof. Yao Xie](https://www2.isye.gatech.edu/~yxie77/). I recieved my Bachelor's degree in Industrial and Systems Engineering from Georgia Tech. My updated C.V. can be found [here](http://abukharin3.github.io/files/AlexBukharinCVOct20.pdf).
 
-My research mainly focuses on machine learning. In particular, I am interested in adversarial training and domain generalization with applications to reinforcement learning and robotics.
+My research intrests include machine learning, deep learning, and adversarial training.
 
 <!-- This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
