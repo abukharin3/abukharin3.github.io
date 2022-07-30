@@ -11,6 +11,9 @@ redirect_from:
 
 Work experience
 ======
+* Summer 2022: Research Intern, Bytedance/TikTok Applied Machine Learning
+  * Supervisor: Dr. Shengjie Wang, Dr. Tianyi Liu
+
 * Summer 2021: Research Intern, NEC Labs America
   * Supervisor: Dr. Shaobo Han
 
