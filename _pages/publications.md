@@ -11,7 +11,7 @@ Robust Multi-Agent Reinforcement Learning using Stackelberg Adversarial Training
 **Alexander Bukharin**, Yue Yu, Qingru Zhang, Zhehui Chen, Simiao Zuo, Yan Li, Chao Zhang, Tuo Zhao <br>
 Submitted<br>
 
-[PLATON: Pruning Large Transformer Models with Upper Confidence Bound of Weight Importance] (https://arxiv.org/abs/2206.12562) <br>
+[PLATON: Pruning Large Transformer Models with Upper Confidence Bound of Weight Importance](https://arxiv.org/abs/2206.12562) <br>
 Qingru Zhang, Simiao Zuo, Chen Liang, **Alexander Bukharin**, Pengcheng He, Weizhu Chen, Tuo Zhao <br>
 International Conference on Machine Learning, 2022
 
