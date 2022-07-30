@@ -8,16 +8,20 @@ author_profile: true
 You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=PnVYoI4AAAAJ&hl=en).
 
 Robust Multi-Agent Reinforcement Learning using Stackelberg Adversarial Training <br>
-**Alexander Bukharin**, Zhehui Chen, Yan Li, Tuo Zhao <br>
+**Alexander Bukharin**, Yue Yu, Qingru Zhang, Zhehui Chen, Simiao Zuo, Yan Li, Chao Zhang, Tuo Zhao <br>
 Submitted<br>
+
+[PLATON: Pruning Large Transformer Models with Upper Confidence Bound of Weight Importance] (https://arxiv.org/abs/2206.12562) <br>
+Qingru Zhang, Simiao Zuo, Chen Liang, **Alexander Bukharin**, Pengcheng He, Weizhu Chen, Tuo Zhao <br>
+International Conference on Machine Learning, 2022
+
+[Early Detection of COVID-19 Hotspots Using Spatio-Temporal Data](https://arxiv.org/abs/2106.00072)<br>
+Shixiang Zhu, **Alexander Bukharin**, Liyan Xie, Khurram Yamin, Shihao Yang, Pinar Keskinocack, and Yao Xie<br>
+IEEE Journal of Selected Topics in Signal Processing, 2022
 
 [High-resolution Spatio-temporal Model for County-level COVID-19 Activity in the US](https://dl.acm.org/doi/abs/10.1145/3468876)<br>
 Shixiang Zhu, **Alexander Bukharin**, Liyan Xie, Mauricio Santillana, Shihao Yang, and Yao Xie<br>
 ACM Transactions on Management Information Systems (TMIS), 2021<br>
-
-[Early Detection of COVID-19 Hotspots Using Spatio-Temporal Data](https://arxiv.org/abs/2106.00072)<br>
-Shixiang Zhu, **Alexander Bukharin**, Liyan Xie, Shihao Yang, Pinar Keskinocack, and Yao Xie<br>
-arXiv, 2021
 
 [Data-Driven Optimization for Police Beat Design in South Fulton, Georgia](https://arxiv.org/abs/2004.09660)<br>
 Shixiang Zhu, **Alexander Bukharin**, Le Lu, He Wang, and Yao Xie<br>
