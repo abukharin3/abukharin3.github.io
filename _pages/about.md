@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first year Ph.D. student in Machine Learning at Georgia Institute of Technology. My advisor is [Prof. Tuo Zhao](https://www2.isye.gatech.edu/~tzhao80/). I recieved my Bachelor's degree in Industrial and Systems Engineering from Georgia Tech. My C.V. can be found [here](http://abukharin3.github.io/files/AlexBukharinJul18.pdf).
+I am a first year Ph.D. student in Machine Learning at Georgia Institute of Technology. My advisor is [Prof. Tuo Zhao](https://www2.isye.gatech.edu/~tzhao80/). I recieved my Bachelor's degree in Industrial and Systems Engineering from Georgia Tech. My C.V. can be found [here](http://abukharin3.github.io/AlexBukharinJul18.pdf).
 
 My research interests include machine learning, deep learning, and natural language processing.
 
