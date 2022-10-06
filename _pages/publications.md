@@ -7,8 +7,20 @@ author_profile: true
 {% include base_path %}
 You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=PnVYoI4AAAAJ&hl=en).
 
-Robust Multi-Agent Reinforcement Learning using Stackelberg Adversarial Training <br>
+Machine Learning Force Fields with Data Cost Aware Training <br>
+**Alexander Bukharin**, Tianyi Liu, Shengjie Wang, Simiao Zuo, Weihao Gao, Wen Yan, Tuo Zhao <br>
+Submitted<br>
+
+Robust Multi-Agent Reinforcement Learning via  Adversarial Regularization: Theoretical Foundation and Stable Algorithms <br>
 **Alexander Bukharin**, Yue Yu, Qingru Zhang, Zhehui Chen, Simiao Zuo, Yan Li, Chao Zhang, Tuo Zhao <br>
+Submitted<br>
+
+Adaptive Budget Allocation for Parameter-Efficient Fine-Tuning <br>
+Qingru Zhang, Minshuo Chen, **Alexander Bukharin**, Pengcheng He, Yu Cheng, Weizhu Chen, Tuo Zhao <br>
+Submitted<br>
+
+Ambient Noise based Weakly Supervised Manhole Localization Methods over Deployed Fiber Networks <br>
+**Alexander Bukharin**, Shaobo Han, Yuheng Chen, Ming-Fang Huang, Yue-Kai Huang, Yao Xie, Ting Wang <br>
 Submitted<br>
 
 [PLATON: Pruning Large Transformer Models with Upper Confidence Bound of Weight Importance](https://arxiv.org/abs/2206.12562) <br>
