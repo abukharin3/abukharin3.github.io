@@ -11,7 +11,8 @@ redirect_from:
 
 Work experience
 ======
-* Summer 2023: Research Intern, LinkedIn
+* Summer 2023: Research Intern, LinkedIn Foundation Models
+  * Supervisor: Tina Jiang, Zhifei Song
 
 * Summer 2022: Research Intern, Bytedance/TikTok Applied Machine Learning
   * Supervisor: Dr. Shengjie Wang, Dr. Tianyi Liu
@@ -19,9 +20,9 @@ Work experience
 * Summer 2021: Research Intern, NEC Labs America
   * Supervisor: Dr. Shaobo Han
 
-* Summer 2020: Quantitative Research Intern, Truist Securities
-
-* Summer 2019: Customer Solutions Engineering Intern, Rocket Software
+Service
+======
+I am serving as a reviewer for Neurips 2023
 
 Teaching experience
 ======
