@@ -13,7 +13,10 @@ Work experience
 ======
 * Summer 2023: Applied Research Intern, LinkedIn Foundation Models Team
   * Supervisor: Tina Jiang, Zhifei Song
-
+  
+* Spring 2023: Research Intern, Microsoft Azure AI
+  * Supervisor: Dr. Pengcheng He
+    
 * Summer 2022: Research Intern, Bytedance/TikTok Applied Machine Learning
   * Supervisor: Dr. Shengjie Wang, Dr. Tianyi Liu
 
