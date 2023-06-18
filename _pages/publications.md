@@ -11,7 +11,7 @@ Robust Multi-Agent Reinforcement Learning via  Adversarial Regularization: Theor
 **Alexander Bukharin**, Yue Yu, Qingru Zhang, Zhehui Chen, Simiao Zuo, Yan Li, Chao Zhang, Tuo Zhao <br>
 Submitted<br>
 
-Machine Learning Force Fields with Data Cost Aware Training <br>
+[Machine Learning Force Fields with Data Cost Aware Training](https://arxiv.org/abs/2306.03109) <br>
 **Alexander Bukharin**, Tianyi Liu, Shengjie Wang, Simiao Zuo, Weihao Gao, Wen Yan, Tuo Zhao <br>
 International Conference on Machine Learning, 2023
 
