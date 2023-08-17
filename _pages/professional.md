@@ -12,7 +12,7 @@ redirect_from:
 Work experience
 ======
 * Summer 2023: Applied Research Intern, LinkedIn Foundation Models Team
-  * Supervisor: Tina Jiang, Zhifei Song
+  * Supervisor: Dr. Tina Jiang, Zhifei Song
   
 * Spring 2023: Research Intern, Microsoft Azure AI
   * Supervisor: Dr. Pengcheng He
