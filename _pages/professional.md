@@ -19,7 +19,7 @@ Work experience
 
 Service
 ======
-I have served and as a reviewer for NeurIPS 2023 and am a reviewer for ICLR 2024.
+I have served as a reviewer for NeurIPS 2023 and am a reviewer for ICLR 2024.
 
 Teaching experience
 ======
