@@ -7,6 +7,10 @@ author_profile: true
 {% include base_path %}
 You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=PnVYoI4AAAAJ&hl=en).
 
+Deep Reinforcement Learning from Hierarchical Weak Preference Feedback <br>
+**Alexander Bukharin**, Yixiao Li, Pengcheng He, Weizhu Chen, Tuo Zhao <br>
+Submitted<br>
+
 Robust Multi-Agent Reinforcement Learning via  Adversarial Regularization: Theoretical Foundation and Stable Algorithms <br>
 **Alexander Bukharin**, Yue Yu, Qingru Zhang, Zhehui Chen, Simiao Zuo, Yan Li, Chao Zhang, Tuo Zhao <br>
 Submitted<br>
