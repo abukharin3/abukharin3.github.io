@@ -13,7 +13,7 @@ I am a second year Ph.D. student in Machine Learning at Georgia Institute of Tec
 My research focuses on developing principled techniques for training large models on noisy real world data. This work is mainly motivated by applications to natural language processing and generation, robotic control, and molecular dynamics simulation. Below is a short summary of the topics I've worked on:
 
 ### Practical Reinforcement Learning
-The goal of this line of research is to develop algorithms for policy optimization and reward learning in settings where the observation and transition dynamics are noisy (i.e. robotics) or the reward function is not known (LLM training). Some directions I've explored are:
+The goal of this line of research is to develop algorithms for policy optimization and reward learning in environments where the observation and transition dynamics are noisy (i.e. robotics) or the reward function is not known (LLM training). Some directions I've explored are:
 * Learning from preference data
 * Learning from demonstrations
 * Robust reinforcement learning
