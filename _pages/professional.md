@@ -11,21 +11,15 @@ redirect_from:
 
 Work experience
 ======
+* Fall 2023: Applied Scientist Intern, Amazon Search
 * Summer 2023: Applied Research Intern, LinkedIn Foundation Models Team
-  * Supervisor: Dr. Tina Jiang, Zhifei Song
-  
-* Spring 2023: Research Intern, Microsoft Azure AI
-  * Supervisor: Dr. Pengcheng He
-    
+* Spring 2023: Research Intern (Part Time), Microsoft Azure AI
 * Summer 2022: Research Intern, Bytedance/TikTok Applied Machine Learning
-  * Supervisor: Dr. Shengjie Wang, Dr. Tianyi Liu
-
 * Summer 2021: Research Intern, NEC Labs America
-  * Supervisor: Dr. Shaobo Han
 
 Service
 ======
-I am serving as a reviewer for Neurips 2023
+I have served/am serving as as a reviewer for NeurIPS 2023 and ICLR 2024.
 
 Teaching experience
 ======
