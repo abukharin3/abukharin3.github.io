@@ -10,7 +10,19 @@ redirect_from:
 
 I am a second year Ph.D. student in Machine Learning at Georgia Institute of Technology. My advisor is [Prof. Tuo Zhao](https://www2.isye.gatech.edu/~tzhao80/). I recieved my Bachelor's degree in Industrial and Systems Engineering from Georgia Tech. My C.V. can be found [here](http://abukharin3.github.io/AlexBukharinCVSep22.pdf).
 
-My research interests include machine learning, deep learning, and natural language processing.
+My research focuses on developing principled techniques for training large neural networks on noisy real world data. This work is mainly motivated by applications to natural language processing and generation, robotic control, and molecular dynamics simulation. Below is a short summary of the topics I've worked on:
+
+### Practical Reinforcement Learning
+The goal of this line of research is to develop algorithms for policy optimization and reward learning in settings where the observation and transition dynamics are noisy (i.e. robotics) or the reward function is not known (LLM training). Some directions I've explored are:
+**Learning from Preference data**
+**Learning from Demonstrations**
+**Robust Reinforcement Learning**
+
+### Efficient Language Model Training
+The goal of this research is to allow language models to be trained and used with limited computational resources. I have worked on developing algorithms for compressing transformer models, developing low-rank adaptation algorithms, and on weakly supervised pre-training for industrial retrieval systems.
+
+### Machine Learning Force Fields
+This line of research focuses on training accurate and stable machine learning force fields with a small data generation cost.
 
 <!-- This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
