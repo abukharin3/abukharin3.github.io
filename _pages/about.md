@@ -14,12 +14,15 @@ My research focuses on developing principled techniques for training large model
 
 ### Practical Reinforcement Learning
 The goal of this line of research is to develop algorithms for policy optimization and reward learning in settings where the observation and transition dynamics are noisy (i.e. robotics) or the reward function is not known (LLM training). Some directions I've explored are:
-**Learning from Preference data**
-**Learning from Demonstrations**
-**Robust Reinforcement Learning**
+* Learning from Preference data
+* Learning from Demonstrations
+* Robust Reinforcement Learning
 
 ### Efficient Language Model Training
-The goal of this research is to allow language models to be trained and used with limited computational resources. I have worked on developing algorithms for compressing transformer models, developing low-rank adaptation algorithms, and on weakly supervised pre-training for industrial retrieval systems.
+The goal of this research is to allow language models to be trained and used with limited computational resources. I have worked on:
+* Algorithms for compressing transformer models
+* Flexible low-rank adaptation algorithms
+* Weakly supervised pre-training for industrial retrieval systems
 
 ### Machine Learning Force Fields
 This line of research focuses on training accurate and stable machine learning force fields with a small data generation cost.
