@@ -10,10 +10,10 @@ redirect_from:
 
 I am a third year Ph.D. student in Machine Learning at Georgia Institute of Technology. My advisor is [Prof. Tuo Zhao](https://www2.isye.gatech.edu/~tzhao80/). My C.V. can be found [here](http://abukharin3.github.io/AlexBukharinCVSep22.pdf), but it is not updated frequently.
 
-My research focuses on developing principled techniques for training large models on noisy real world data. This work is mainly motivated by applications to natural language processing and generation, robotic control, and molecular dynamics simulation. Below is a short summary of the topics I've worked on:
+My research focuses on developing principled techniques for training large models on noisy real world data. This work is mainly motivated by applications to natural language processing, robotic control, and molecular dynamics simulation. Below is a short summary of the topics I've worked on:
 
 ### Practical Reinforcement Learning
-The goal of this line of research is to develop algorithms for policy optimization and reward learning in environments where the observation and transition dynamics are noisy (i.e. robotics) or the reward function is not known (LLM training). Some directions I've explored are:
+The goal of this research is to develop algorithms for policy optimization and reward learning in environments where the observation and transition dynamics are noisy (i.e. robotics) or the reward function is not known (LLM training). Some directions I've explored are:
 * Learning from preference data
 * Learning from demonstrations
 * Robust reinforcement learning
