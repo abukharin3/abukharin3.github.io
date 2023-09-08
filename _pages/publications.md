@@ -7,7 +7,7 @@ author_profile: true
 {% include base_path %}
 You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=PnVYoI4AAAAJ&hl=en).
 
-Deep Reinforcement Learning from Hierarchical Weak Preference Feedback <br>
+[Deep Reinforcement Learning from Hierarchical Weak Preference Feedback](https://arxiv.org/abs/2309.02632) <br>
 **Alexander Bukharin**, Yixiao Li, Pengcheng He, Weizhu Chen, Tuo Zhao <br>
 Submitted<br>
 
