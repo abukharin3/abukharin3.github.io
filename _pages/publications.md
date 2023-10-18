@@ -11,7 +11,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 **Alexander Bukharin**, Yixiao Li, Pengcheng He, Weizhu Chen, Tuo Zhao <br>
 Submitted<br>
 
-Robust Multi-Agent Reinforcement Learning via  Adversarial Regularization: Theoretical Foundation and Stable Algorithms <br>
+[Robust Multi-Agent Reinforcement Learning via  Adversarial Regularization: Theoretical Foundation and Stable Algorithms](https://arxiv.org/abs/2310.10810) <br>
 **Alexander Bukharin**, Yue Yu, Qingru Zhang, Zhehui Chen, Simiao Zuo, Yan Li, Chao Zhang, Tuo Zhao <br>
 Accepted to NeurIPS 2023
 
