@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third year Ph.D. student in Machine Learning at Georgia Institute of Technology. My advisor is [Prof. Tuo Zhao](https://www2.isye.gatech.edu/~tzhao80/). My C.V. can be found [here](http://abukharin3.github.io/AlexBukharinCVSep22.pdf), but it is not updated frequently.
+I am a third year Ph.D. student in Machine Learning at Georgia Institute of Technology. My advisor is [Prof. Tuo Zhao](https://www2.isye.gatech.edu/~tzhao80/). My C.V. can be found [here](http://abukharin3.github.io/AlexBukharinCV-Nov23.pdf), but it is not updated frequently.
 
 My research focuses on developing principled techniques for training large models on noisy real world data. This work is mainly motivated by applications to natural language processing, robotic control, and molecular dynamics simulation. Below is a short summary of the topics I've worked on:
 
