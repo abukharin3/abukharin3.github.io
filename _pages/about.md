@@ -10,22 +10,7 @@ redirect_from:
 
 I am a third year Ph.D. student in Machine Learning at Georgia Institute of Technology. My advisor is [Prof. Tuo Zhao](https://www2.isye.gatech.edu/~tzhao80/). My C.V. can be found [here](http://abukharin3.github.io/AlexBukharinCV-Nov23.pdf), but it is not updated frequently.
 
-My research focuses on developing principled techniques for training large models on noisy real world data. This work is mainly motivated by applications to natural language processing, robotic control, and molecular dynamics simulation. Below is a short summary of the topics I've worked on:
-
-### Practical Reinforcement Learning
-The goal of this research is to develop algorithms for policy optimization and reward learning in environments where the observation and transition dynamics are noisy (i.e. robotics) or the reward function is not known (LLM training). Some directions I've explored are:
-* Learning from preference data
-* Learning from demonstrations
-* Robust reinforcement learning
-
-### Efficient Language Model Training
-The goal of this research is to allow language models to be trained and used with limited computational resources. I have worked on:
-* Algorithms for compressing transformer models
-* Flexible Low-Rank Adaptation (LoRA) algorithms
-* Weakly supervised pre-training for industrial retrieval systems
-
-### Machine Learning Force Fields
-This line of research focuses on training accurate and stable machine learning force fields with a small data generation cost.
+My current research is focused on aligning large language models. Most recently I have been working on data selection for instruction tuning and reward modeling in RLHF. Earlier in my PhD I worked on parameter efficient LLM training, machine learning force fields, and robust multi-agent reinforcement learning.
 
 <!-- This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
