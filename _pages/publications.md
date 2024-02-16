@@ -7,6 +7,19 @@ author_profile: true
 {% include base_path %}
 You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=PnVYoI4AAAAJ&hl=en).
 
+[Data Diversity Matters for Robust Instruction Tuning](https://arxiv.org/abs/2311.14736) <br>
+**Alexander Bukharin**, Tuo Zhao <br>
+Submitted<br>
+
+RNR: Teaching Large Language Models to Follow Roles and Rules <br>
+**Alexander Bukharin<sup>\*</sup>**, Kuan Wang<sup>\*</sup>, Haoming Jiang, Qingyu Yin, Zhengyang Wang, Tuo Zhao, Jingbo Shang, Chao
+Zhang, Bing Yin, Xian Li, Jianshu Chen, Shiyang Li <br>
+Submitted<br>
+
+Adaptive Preference Scaling for Reinforcement Learning with Human Feedback <br>
+Ilgee Hong, Zichong Li, **Alexander Bukharin**, Yixiao Li, Haoming Jiang, Tianbao Yang, Tuo Zhao <br>
+Submitted<br>
+
 [Deep Reinforcement Learning from Hierarchical Weak Preference Feedback](https://arxiv.org/abs/2309.02632) <br>
 **Alexander Bukharin**, Yixiao Li, Pengcheng He, Weizhu Chen, Tuo Zhao <br>
 Submitted<br>
