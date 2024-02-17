@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third year Ph.D. student in Machine Learning at Georgia Institute of Technology. My advisor is [Prof. Tuo Zhao](https://www2.isye.gatech.edu/~tzhao80/). My C.V. can be found [here](http://abukharin3.github.io/AlexBukharinCV-Nov23.pdf), but it is not updated frequently.
+I am a third year Ph.D. student in Machine Learning at Georgia Institute of Technology. My advisor is [Prof. Tuo Zhao](https://www2.isye.gatech.edu/~tzhao80/). My C.V. can be found [here](http://abukharin3.github.io/AlexBukharinCV.pdf), but it is not updated frequently.
 
 My current research is focused on aligning large language models. Most recently I have been working on instruction tuning and reward modeling in RLHF. Earlier in my PhD I worked on parameter efficient LLM training, machine learning force fields, and robust multi-agent reinforcement learning.
 
