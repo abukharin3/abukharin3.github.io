@@ -11,6 +11,7 @@ redirect_from:
 
 Work experience
 ======
+* Summer 2024: Research Intern, NVIDIA
 * Fall 2023: Applied Scientist Intern, Amazon Search
 * Summer 2023: Applied Research Intern, LinkedIn Foundation Models Team
 * Spring 2023: Research Intern (Part Time), Microsoft Azure AI
@@ -19,7 +20,7 @@ Work experience
 
 Service
 ======
-I have served as a reviewer for NeurIPS 2023 and am a reviewer for ICLR 2024.
+I have served as a reviewer for NeurIPS 2023, ICLR 2024, and NeurIPS 2024.
 
 Teaching experience
 ======
