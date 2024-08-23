@@ -7,16 +7,16 @@ author_profile: true
 {% include base_path %}
 You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=PnVYoI4AAAAJ&hl=en).
 
+[Robust Reinforcement Learning from Corrupted Human Feedback](https://arxiv.org/abs/2406.15568) <br>
+**Alexander Bukharin**, Ilgee Hong, Haoming Jiang, Zichong Li, Qingru Zhang, Zixuan Zhang, Tuo Zhao <br>
+Submitted
+
 [Data Diversity Matters for Robust Instruction Tuning](https://arxiv.org/abs/2311.14736) <br>
 **Alexander Bukharin**, Tuo Zhao <br>
 Submitted<br>
 
-RNR: Teaching Large Language Models to Follow Roles and Rules <br>
-**Alexander Bukharin<sup>\*</sup>**, Kuan Wang<sup>\*</sup>, Haoming Jiang, Qingyu Yin, Zhengyang Wang, Tuo Zhao, Jingbo Shang, Chao
-Zhang, Bing Yin, Xian Li, Jianshu Chen, Shiyang Li <br>
-Submitted<br>
 
-Adaptive Preference Scaling for Reinforcement Learning with Human Feedback <br>
+[Adaptive Preference Scaling for Reinforcement Learning with Human Feedback](https://arxiv.org/abs/2406.02764) <br>
 Ilgee Hong, Zichong Li, **Alexander Bukharin**, Yixiao Li, Haoming Jiang, Tianbao Yang, Tuo Zhao <br>
 Submitted<br>
 
@@ -24,9 +24,14 @@ Submitted<br>
 **Alexander Bukharin**, Yixiao Li, Pengcheng He, Weizhu Chen, Tuo Zhao <br>
 Submitted<br>
 
+[RNR: Teaching Large Language Models to Follow Roles and Rules](https://www.amazon.science/publications/rnr-teaching-large-language-models-to-follow-roles-and-rules) <br>
+**Alexander Bukharin<sup>\*</sup>**, Kuan Wang<sup>\*</sup>, Haoming Jiang, Qingyu Yin, Zhengyang Wang, Tuo Zhao, Jingbo Shang, Chao
+Zhang, Bing Yin, Xian Li, Jianshu Chen, Shiyang Li <br>
+ICML 2024 Workshop on Foundation Models in the Wild<br>
+
 [Robust Multi-Agent Reinforcement Learning via  Adversarial Regularization: Theoretical Foundation and Stable Algorithms](https://arxiv.org/abs/2310.10810) <br>
 **Alexander Bukharin**, Yue Yu, Qingru Zhang, Zhehui Chen, Simiao Zuo, Yan Li, Chao Zhang, Tuo Zhao <br>
-Accepted to NeurIPS 2023
+NeurIPS 2023
 
 [Machine Learning Force Fields with Data Cost Aware Training](https://arxiv.org/abs/2306.03109) <br>
 **Alexander Bukharin**, Tianyi Liu, Shengjie Wang, Simiao Zuo, Weihao Gao, Wen Yan, Tuo Zhao <br>
