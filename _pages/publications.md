@@ -7,22 +7,21 @@ author_profile: true
 {% include base_path %}
 You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=PnVYoI4AAAAJ&hl=en).
 
-[Robust Reinforcement Learning from Corrupted Human Feedback](https://arxiv.org/abs/2406.15568) <br>
-**Alexander Bukharin**, Ilgee Hong, Haoming Jiang, Zichong Li, Qingru Zhang, Zixuan Zhang, Tuo Zhao <br>
-Submitted
-
-[Data Diversity Matters for Robust Instruction Tuning](https://arxiv.org/abs/2311.14736) <br>
-**Alexander Bukharin**, Tuo Zhao <br>
-Submitted<br>
-
-
-[Adaptive Preference Scaling for Reinforcement Learning with Human Feedback](https://arxiv.org/abs/2406.02764) <br>
-Ilgee Hong, Zichong Li, **Alexander Bukharin**, Yixiao Li, Haoming Jiang, Tianbao Yang, Tuo Zhao <br>
-Submitted<br>
-
 [Deep Reinforcement Learning from Hierarchical Weak Preference Feedback](https://arxiv.org/abs/2309.02632) <br>
 **Alexander Bukharin**, Yixiao Li, Pengcheng He, Weizhu Chen, Tuo Zhao <br>
 Submitted<br>
+
+[Robust Reinforcement Learning from Corrupted Human Feedback](https://arxiv.org/abs/2406.15568) <br>
+**Alexander Bukharin**, Ilgee Hong, Haoming Jiang, Zichong Li, Qingru Zhang, Zixuan Zhang, Tuo Zhao <br>
+NeurIPS 2024
+
+[Data Diversity Matters for Robust Instruction Tuning](https://arxiv.org/abs/2311.14736) <br>
+**Alexander Bukharin**, Tuo Zhao <br>
+EMNLP 2024
+
+[Adaptive Preference Scaling for Reinforcement Learning with Human Feedback](https://arxiv.org/abs/2406.02764) <br>
+Ilgee Hong, Zichong Li, **Alexander Bukharin**, Yixiao Li, Haoming Jiang, Tianbao Yang, Tuo Zhao <br>
+NeurIPS 2024
 
 [RNR: Teaching Large Language Models to Follow Roles and Rules](https://www.amazon.science/publications/rnr-teaching-large-language-models-to-follow-roles-and-rules) <br>
 **Alexander Bukharin<sup>\*</sup>**, Kuan Wang<sup>\*</sup>, Haoming Jiang, Qingyu Yin, Zhengyang Wang, Tuo Zhao, Jingbo Shang, Chao
