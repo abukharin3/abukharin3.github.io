@@ -15,10 +15,6 @@ Submitted<br>
 **Alexander Bukharin**, Yixiao Li, Pengcheng He, Weizhu Chen, Tuo Zhao <br>
 Submitted<br>
 
-[Deep Reinforcement Learning from Hierarchical Weak Preference Feedback](https://arxiv.org/abs/2309.02632) <br>
-**Alexander Bukharin**, Yixiao Li, Pengcheng He, Weizhu Chen, Tuo Zhao <br>
-Submitted<br>
-
 [Robust Reinforcement Learning from Corrupted Human Feedback](https://arxiv.org/abs/2406.15568) <br>
 **Alexander Bukharin**, Ilgee Hong, Haoming Jiang, Zichong Li, Qingru Zhang, Zixuan Zhang, Tuo Zhao <br>
 NeurIPS 2024
