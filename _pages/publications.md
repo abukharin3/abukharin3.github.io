@@ -8,7 +8,7 @@ author_profile: true
 You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=PnVYoI4AAAAJ&hl=en).
 
 [HelpSteer2-Preference: Complementing Ratings with Preferences](https://arxiv.org/abs/2410.01257) <br>
-Zhilin Wang, **Alexander Bukharin**, Olivier Delalleau, Daniel Egert, Gerald Shen, Jiaqi Zeng, Oleksii Kuchaiev, Yi Dong
+Zhilin Wang, **Alexander Bukharin**, Olivier Delalleau, Daniel Egert, Gerald Shen, Jiaqi Zeng, Oleksii Kuchaiev, Yi Dong <br>
 Submitted<br>
 
 [Deep Reinforcement Learning from Hierarchical Weak Preference Feedback](https://arxiv.org/abs/2309.02632) <br>
