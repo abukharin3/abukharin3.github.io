@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a research scientist at NVIDIA, where I am working on reinforcement learning and language models. Previously, I recieved a Ph.D. in Machine Learning from Georgia Institute of Technology working with [Prof. Tuo Zhao](https://www2.isye.gatech.edu/~tzhao80/) on reward design and robustness in reinforcement learning. My C.V. can be found [here](http://abukharin3.github.io/AlexBukharinCVAug24.pdf).
+I am a research scientist at NVIDIA, where I am working on reinforcement learning and language models. Previously, I recieved a Ph.D. in Machine Learning from Georgia Institute of Technology working with [Prof. Tuo Zhao](https://www2.isye.gatech.edu/~tzhao80/) on reward design and robustness in reinforcement learning. My (likely outdated) C.V. can be found [here](http://abukharin3.github.io/AlexBukharinCVAug24.pdf).
 
 <!-- This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
