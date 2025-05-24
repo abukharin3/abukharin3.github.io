@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth year Ph.D. student in Machine Learning at Georgia Institute of Technology. My advisor is [Prof. Tuo Zhao](https://www2.isye.gatech.edu/~tzhao80/). My C.V. can be found [here](http://abukharin3.github.io/AlexBukharinCVAug24.pdf).
-
-My current research is focused on training large language models with reinforcement learning. Most recently I have been working on using RL to improve language model's capabilities in mathematical reasoning, code generation, and instruction following. Earlier in my PhD I worked on parameter efficient LLM training, machine learning force fields, and robust multi-agent reinforcement learning.
+I am a research scientist at NVIDIA, where I am working on reinforcement learning and language models. Previously, I got a Ph.D. student in Machine Learning at Georgia Institute of Technology working with [Prof. Tuo Zhao](https://www2.isye.gatech.edu/~tzhao80/) on reward design and robustness in reinforcement learning. My C.V. can be found [here](http://abukharin3.github.io/AlexBukharinCVAug24.pdf).
 
 <!-- This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
